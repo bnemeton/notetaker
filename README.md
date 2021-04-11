@@ -9,5 +9,5 @@ A note-taking app using express and uniqid to write notes, save them in a JSON, 
 * The note will be saved on the server in a JSON file.
 * To delete a note, click the small red delete button next to the note's title in the list of notes on the left.
 
-![A screenshot of the app before clicking the button.](screenshot_1.png)
-![A screenshot of the notes interface.](screenshot_2.png)
+![A screenshot of the app before clicking the button.](screenshot_2.png)
+![A screenshot of the notes interface.](screenshot_1.png)
